@@ -5,9 +5,10 @@
 ### Title
 
 ## Ideas for website theme
-- minimalistic
-- clean
-- expensive
+- Minimalistic
+- Clean
+- Expensive
+- Sleek
 ## Target Audience
 - Over $250,000 annually
 - Fashion Intrest
